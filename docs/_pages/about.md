@@ -1,6 +1,11 @@
 ---
 permalink: /about/
-title: "About"
+title: "About me:"
+
+My name is Yan Zhao. I am a Senior Engineer at Gas Technology Institute (GTI Energy). 
+I obtained my Ph.D. degree in Mechanical & Aerospace Engineering from the University of California,Irvine, 
+supervised by Prof. Scott Samuelsen and Prof. Vince McDonell. My research focueses on fossil and renewable fuels, combustion emissions reduction and energy systems resilience.
+
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
