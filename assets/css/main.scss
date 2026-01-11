@@ -8,16 +8,29 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.author__avatar {
+.author__avatar,
+.author__avatar:hover,
+.author__avatar a,
+.author__avatar a:hover,
+.author__content,
+.author__content:hover,
+.author__avatar img,
+.author__avatar img:hover {
   opacity: 1 !important;
+  filter: none !important;
+}
+
+/* Keep image non-clickable but visually solid */
+.author__avatar {
   pointer-events: none;
 }
 
+/* Avatar size */
 .author__avatar img {
   max-width: 200px;
-  opacity: 1 !important;
 }
 
+/* Spacing between name and links */
 .author__urls-wrapper {
   margin-top: 1.2em;
 }
