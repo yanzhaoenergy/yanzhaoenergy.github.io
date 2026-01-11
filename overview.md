@@ -1,6 +1,6 @@
 ---
-title: Education
-permalink: /education/
+title: Overview
+permalink: /overview/
 ---
 
 ## Education Background
