@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Education"
-    url: /education/
+  - title: "Overview"
+    url: /overview/
   - title: "Publications"
     url: /publications/
   - title: "Projects"
