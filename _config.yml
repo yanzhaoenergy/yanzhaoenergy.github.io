@@ -122,13 +122,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "yanz33@uci.edu"
+      url: "yanz33@uci.edu"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
-      # url: "https://scholar.google.com/citations?user=9xAvqzcAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=9xAvqzcAAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      # url: "https://www.linkedin.com/in/yanzhaoenergy/"
+      url: "https://www.linkedin.com/in/yanzhaoenergy/"
 
 # Site Footer
 footer:
