@@ -8,12 +8,12 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.author__avatar img {
-  max-width: 200px;
+.author__avatar {
   opacity: 1 !important;
+  pointer-events: none; /* removes link hover effect */
 }
 
-.author__avatar img:hover {
+.author__avatar img {
   opacity: 1 !important;
 }
 
