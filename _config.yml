@@ -123,7 +123,7 @@ author:
       icon: "fas fa-map-marker-alt"
       url: ""
     - label: "Gas Technology Institute"
-      icon: "fas fa-building"
+      icon: "fas fa-university"
       url: "https://www.gti.energy"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
