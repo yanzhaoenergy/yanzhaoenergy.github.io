@@ -10,8 +10,13 @@ search: false
 
 .author__avatar img {
   max-width: 200px;
+  opacity: 1 !important;
 }
 
-.author__meta {
-  margin-top: 1em !important;
+.author__avatar img:hover {
+  opacity: 1 !important;
+}
+
+.author__urls-wrapper {
+  margin-top: 1.2em;
 }
