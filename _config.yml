@@ -121,7 +121,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "yanz33@uci.edu"
+      url: "mailto:yanz33@uci.edu"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=9xAvqzcAAAAJ&hl=en"
