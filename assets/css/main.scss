@@ -10,14 +10,14 @@ search: false
 
 .author__avatar {
   opacity: 1 !important;
-  pointer-events: none; /* removes link hover effect */
+  pointer-events: none;
 }
 
 .author__avatar img {
+  max-width: 240px;
   opacity: 1 !important;
 }
 
 .author__urls-wrapper {
   margin-top: 1.2em;
 }
-
