@@ -18,19 +18,23 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.author__avatar,
-.author__avatar:hover,
-.author__avatar a,
-.author__avatar a:hover,
+/* === Disable ALL hover fade effects in author sidebar === */
+.author__inner,
 .author__content,
 .author__content:hover,
+.author__avatar,
+.author__avatar:hover,
 .author__avatar img,
-.author__avatar img:hover {
+.author__avatar img:hover,
+.author__name,
+.author__name:hover,
+.author__urls-wrapper,
+.author__urls-wrapper:hover {
   opacity: 1 !important;
   filter: none !important;
 }
 
-/* Keep image non-clickable but visually solid */
+/* Remove avatar click behavior */
 .author__avatar {
   pointer-events: none;
 }
@@ -40,7 +44,8 @@ search: false
   max-width: 200px;
 }
 
-/* Spacing between name and links */
+/* Space between name and location */
 .author__urls-wrapper {
   margin-top: 1.2em;
 }
+
