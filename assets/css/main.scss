@@ -8,21 +8,6 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
----
-# Only the main Sass file needs front matter (the dashes are enough)
-search: false
----
-
-@charset "utf-8";
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
-
-/* Remove avatar click behavior */
-.author__avatar {
-  pointer-events: none;
-}
-
 /* Avatar size */
 .author__avatar img {
   max-width: 200px;
@@ -31,32 +16,4 @@ search: false
 /* Space between name and location */
 .author__urls-wrapper {
   margin-top: 1.2em;
-}
-
-/*
-  Disable all author sidebar hover opacity changes
-  in Minimal Mistakes theme for GitHub Pages.
-*/
-
-/* Ensure the avatar and name are always solid */
-.author__avatar,
-.author__avatar img,
-.author__avatar:hover,
-.author__content,
-.author__content:hover,
-.author__inner,
-.author__inner:hover,
-.author__name,
-.author__name:hover,
-.author__urls-wrapper,
-.author__urls-wrapper:hover {
-  opacity: 1 !important;
-  filter: none !important;
-}
-
-/* Optional: remove cursor pointer when hovering so it doesn’t feel interactive */
-.author__avatar,
-.author__avatar img,
-.author__name {
-  cursor: default !important;
 }
