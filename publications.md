@@ -9,11 +9,11 @@ permalink: /publications/
 
 - Mac Kinnon, M.A., Zhu, S., **Zhao, Y.**, Colorado, A., McDonell, V., Wu, K. and Samuelsen, S., 2025. [Emissions and Air Quality Implications of Decarbonizing the Natural Gas System with Renewable Hydrogen](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955555). **Fuel**, 390, p.134702.
 
-- **Zhao, Y.**, McDonell, V. and Samuelsen, S., 2022. Residential Fuel Transition and Fuel Interchangeability in Current Self-Aspirating Combustion Applications: Historical Development and Future Expectations. **Energies**, 15(10), p.3547.
+- **Zhao, Y.**, McDonell, V. and Samuelsen, S., 2022. [Residential Fuel Transition and Fuel Interchangeability in Current Self-Aspirating Combustion Applications: Historical Development and Future Expectations](https://www.mdpi.com/1996-1073/15/10/3547). **Energies**, 15(10), p.3547.
 
-- **Zhao, Y.**, Hickey, B., Srivastava, S., Smirnov, V. and McDonell, V., 2022. Decarbonized Combustion Performance of a Radiant Mesh Burner Operating on Pipeline Natural Gas Mixed with Hydrogen. **International Journal of Hydrogen Energy**, 47(42), pp.18551.
+- **Zhao, Y.**, Hickey, B., Srivastava, S., Smirnov, V. and McDonell, V., 2022. [Decarbonized Combustion Performance of a Radiant Mesh Burner Operating on Pipeline Natural Gas Mixed with Hydrogen](https://www.sciencedirect.com/science/article/abs/pii/S0360319922014689). **International Journal of Hydrogen Energy**, 47(42), pp.18551.
 
-- Glanville, P., Fridlyand, A., Sutherland, B., Liszka, M., **Zhao, Y.**, Bingham, L. and Jorgensen, K., 2022. Impact of Hydrogen/Natural Gas Blends on Partially Premixed Combustion Equipment: NOx Emission and Operational Performance. **Energies**, 15(5), p.1706.
+- Glanville, P., Fridlyand, A., Sutherland, B., Liszka, M., **Zhao, Y.**, Bingham, L. and Jorgensen, K., 2022. [Impact of Hydrogen/Natural Gas Blends on Partially Premixed Combustion Equipment: NOx Emission and Operational Performance](https://www.mdpi.com/1996-1073/15/5/1706). **Energies**, 15(5), p.1706.
 
 - **Zhao, Y.**, McDonell, V. and Samuelsen, S., 2021. Corrigendum to “An Introduction to Combustion: Concepts and Applications [McGraw-Hill (2012)]”. **International Journal of Hydrogen Energy**, 46(17), pp.10586-10588.
 
