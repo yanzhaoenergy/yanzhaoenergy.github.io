@@ -17,6 +17,12 @@ classes: wide
 - **B.S.** in Energy Engineering,  
   Hebei University of Technology, China, 2013
 
+## Teaching
+- Hydrogen in the Energy Transition of Northwestern University (Lab)                      
+- Combustion Engineers Training at Gas Technology Institute and Utility Facilities (Lab&Field) 
+- UC Irvine Gas Turbine Combustion and Atomization & Sprays Lab Work (Lab) 
+- UC Irvine MAE 284: Fundamentals of Experimental Design
+- UC Irvine MAE 110: Combustion and Fuel Cell Systems
 
 ## Member of Professional and Scientific Associations
 
