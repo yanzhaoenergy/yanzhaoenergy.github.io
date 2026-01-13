@@ -41,29 +41,29 @@ permalink: /publications/
 
 - Xiang, Z., Acikgoz, E., Chen, H., McEnally, C., Pfefferle, L. and **Zhao, Y.**, 2025. Visible Light Emissions from Hydrogen Flames. **14th U.S. National Combustion Meeting**.
 
-- Bushell, M., Fridlyand, A., **Zhao, Y.**, 2025. Hydrogen Integration in Buildings: Investigating Leakage from Common Gas Connections. **ASHRAE Transactions**.
+- Bushell, M., Fridlyand, A., **Zhao, Y.**, 2025. [Hydrogen Integration in Buildings: Investigating Leakage from Common Gas Connections](https://store.accuristech.com/standards/or-25-c081-hydrogen-integration-in-buildings-investigating-leakage-from-common-gas-connections?product_id=3017365). **ASHRAE Transactions**.
 
-- **Zhao, Y.**, Pixler, J., Sutherland, B., Daniels, N., Johnson, F., 2025. Non-Powered Commercial Cooktop Burners Optimization for Efficiency Improvement and NOx Reduction. **ASHRAE Transactions**.
+- **Zhao, Y.**, Pixler, J., Sutherland, B., Daniels, N., Johnson, F., 2025. [Non-Powered Commercial Cooktop Burners Optimization for Efficiency Improvement and NOx Reduction](https://store.accuristech.com/standards/or-25-c104-non-powered-commercial-cooktop-burners-optimization-for-efficiency-improvement-and-nox-reduction?product_id=3017385). **ASHRAE Transactions**.
 
 - Glanville, P., Alvandi, S., Fridlyand, A., Kar, T., **Zhao, Y.**, Kozlov, A., 2024. Decarbonizing Heating Equipment by Adopting Hydrogen-based Fuels, 2024. **International Gas Research Conference**, Banff, Canada.
 
-- Glanville, P., Fridlyand, A., **Zhao, Y.**, Kar, T., Asher, W., Jogineedi, R., 2024. Is the Heating Industry Hydrogen-Ready?: A Meta-Analysis of Hydrogen Impact Assessments on Combustion Equipment in Buildings. **ASHRAE Transactions**, 130, 287-296.
+- Glanville, P., Fridlyand, A., **Zhao, Y.**, Kar, T., Asher, W., Jogineedi, R., 2024. [Is the Heating Industry Hydrogen-Ready?: A Meta-Analysis of Hydrogen Impact Assessments on Combustion Equipment in Buildings](https://www.proquest.com/openview/fafae892d04238eda654e1731bbe9498/1?pq-origsite=gscholar&cbl=34619). **ASHRAE Transactions**, 130, 287-296.
 
-- **Zhao, Y.**, Glanville, P., Fridlyand, A., Sutherland, B., 2024. Hydrogen Blending into Residential Water Heaters with Hydrogen Content Monitored in the Pipeline, 2024. **International Gas Research Conference**, Banff, Canada.
+- **Zhao, Y.**, Glanville, P., Fridlyand, A., Sutherland, B., 2024. [Hydrogen Blending into Residential Water Heaters with Hydrogen Content Monitored in the Pipeline](https://www.researchgate.net/publication/380999139_Hydrogen_Blending_into_Residential_Water_Heaters_with_Hydrogen_Content_Monitored_in_the_Pipeline). **International Gas Research Conference**, Banff, Canada.
 
-- Glanville, P., Fridlyand, A., **Zhao, Y.**, 2023. From Town Gas to Hydrogen: Historical and Modern Perspectives on Transitions Between Delivered Fuels in the Built Environment. **ASHRAE Transactions**, 129, 92-102.
+- Glanville, P., Fridlyand, A., **Zhao, Y.**, 2023. [From Town Gas to Hydrogen: Historical and Modern Perspectives on Transitions Between Delivered Fuels in the Built Environment](https://www.proquest.com/openview/9aabd157ffdeb80f02262566c67bd69e/1?pq-origsite=gscholar&cbl=34619). **ASHRAE Transactions**, 129, 92-102.
 
-- **Zhao, Y.**, Glanville, P., Fridlyand, A., Sutherland, B., 2023. Inline Hydrogen Sensor Monitoring of a Tankless Water Heater Operating Up to 30% Hydrogen Blending. **ASHRAE Transactions**, 129, 103-111.
+- **Zhao, Y.**, Glanville, P., Fridlyand, A., Sutherland, B., 2023. [Inline Hydrogen Sensor Monitoring of a Tankless Water Heater Operating Up to 30% Hydrogen Blending](https://www.proquest.com/openview/37ff611ebd2f1ddf8da18395944db6c4/1?pq-origsite=gscholar&cbl=34619). **ASHRAE Transactions**, 129, 103-111.
 
-- Fridlyand, A., **Zhao, Y.**, Asher, W., Glanville, P., 2023. Burner Design Considerations for Hydrogen blended Gas Operation. **ASHRAE Transactions**, 129, 83-91.
+- Fridlyand, A., **Zhao, Y.**, Asher, W., Glanville, P., 2023. [Burner Design Considerations for Hydrogen blended Gas Operation](https://openurl.ebsco.com/EPDB%3Agcd%3A2%3A21155666/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A164456100&crl=c). **ASHRAE Transactions**, 129, 83-91.
 
-- **Zhao, Y.**, Srivastava, S., Smirnov, V. and McDonell, V., 2021. Alternative Fuels and Emissions Decarbonized Combustion Performance of a Radiant Mesh Burner Operating on Pipeline Natural Gas Mixed with Hydrogen. **12th U.S. National Combustion Meeting**.
+- **Zhao, Y.**, Srivastava, S., Smirnov, V. and McDonell, V., 2021. [Alternative Fuels and Emissions Decarbonized Combustion Performance of a Radiant Mesh Burner Operating on Pipeline Natural Gas Mixed with Hydrogen](https://www.researchgate.net/publication/353225444_Sub_Topic_Alternative_Fuels_and_Emissions_Decarbonized_Combustion_Performance_of_a_Radiant_Mesh_Burner_Operating_on_Pipeline_Natural_Gas_Mixed_with_Hydrogen). **12th U.S. National Combustion Meeting**.
 
-- **Zhao, Y.**, Shao, W., McDonell, V., et al., 2020. Numerical and Experimental Study of Geometry Effects on Fuel/Air Mixing and Combustion Characteristics of a DLN burner. **ASME Power Conference**.
+- **Zhao, Y.**, Shao, W., McDonell, V., et al., 2020. [Numerical and Experimental Study of Geometry Effects on Fuel/Air Mixing and Combustion Characteristics of a DLN burner](https://www.researchgate.net/publication/353225444_Sub_Topic_Alternative_Fuels_and_Emissions_Decarbonized_Combustion_Performance_of_a_Radiant_Mesh_Burner_Operating_on_Pipeline_Natural_Gas_Mixed_with_Hydrogen). **ASME Power Conference**.
 
-- **Zhao, Y.**, Morales, D. and McDonell, V., 2019. Influence of Blending Hydrogen and Biogas into Natural Gas on the Combustion Performance of a Tankless Water Heater. **ASME International Mechanical Engineering Congress and Exposition**.
+- **Zhao, Y.**, Morales, D. and McDonell, V., 2019. [Influence of Blending Hydrogen and Biogas into Natural Gas on the Combustion Performance of a Tankless Water Heater](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2019/V008T09A018/1073360). **ASME International Mechanical Engineering Congress and Exposition**.
 
-- **Zhao, Y.**, McDonell, V. and Samuelsen, S., 2019. Experimental Assessment of the Combustion Performance of an Oven Burner Operated on Pipeline Natural Gas Mixed with Hydrogen. **11th U.S. National Combustion Meeting**.
+- **Zhao, Y.**, McDonell, V. and Samuelsen, S., 2019. [Experimental Assessment of the Combustion Performance of an Oven Burner Operated on Pipeline Natural Gas Mixed with Hydrogen](https://www.researchgate.net/publication/333610442_EXPERIMENTAL_ASSESSMENT_OF_THE_COMBUSTION_PERFORMANCE_OF_AN_OVEN_BURNER_OPERATED_ON_PIPELINE_NATURAL_GAS_MIXED_WITH_HYDROGEN). **11th U.S. National Combustion Meeting**.
 
-- **Zhao, Y.**, Choudhury, S. and McDonell, V., 2018, November. Influence of Renewable Gas Addition to Natural Gas on the Combustion Performance of Cooktop Burners. **ASME International Mechanical Engineering Congress and Exposition**.
+- **Zhao, Y.**, Choudhury, S. and McDonell, V., 2018, November. [Influence of Renewable Gas Addition to Natural Gas on the Combustion Performance of Cooktop Burners](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2018/52118/273810). **ASME International Mechanical Engineering Congress and Exposition**.
 
