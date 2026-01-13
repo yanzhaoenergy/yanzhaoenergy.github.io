@@ -15,23 +15,23 @@ permalink: /publications/
 
 - Glanville, P., Fridlyand, A., Sutherland, B., Liszka, M., **Zhao, Y.**, Bingham, L. and Jorgensen, K., 2022. [Impact of Hydrogen/Natural Gas Blends on Partially Premixed Combustion Equipment: NOx Emission and Operational Performance](https://www.mdpi.com/1996-1073/15/5/1706). **Energies**, 15(5), p.1706.
 
-- **Zhao, Y.**, McDonell, V. and Samuelsen, S., 2021. Corrigendum to “An Introduction to Combustion: Concepts and Applications [McGraw-Hill (2012)]”. **International Journal of Hydrogen Energy**, 46(17), pp.10586-10588.
+- **Zhao, Y.**, McDonell, V. and Samuelsen, S., 2021. [Corrigendum to “An Introduction to Combustion: Concepts and Applications [McGraw-Hill (2012)]”](https://www.sciencedirect.com/science/article/pii/S0360319920347509). **International Journal of Hydrogen Energy**, 46(17), pp.10586-10588.
 
-- **Zhao, Y.**, McDonell, V. and Samuelsen, S., 2020. Assessment of the Combustion Performance of a Room Furnace Operating on Pipeline NG Mixed with Simulated Biogas or Hydrogen. **International Journal of Hydrogen Energy**, 45(19), pp.11368-11379.
+- **Zhao, Y.**, McDonell, V. and Samuelsen, S., 2020. [Assessment of the Combustion Performance of a Room Furnace Operating on Pipeline NG Mixed with Simulated Biogas or Hydrogen](https://www.sciencedirect.com/science/article/abs/pii/S0360319920306340). **International Journal of Hydrogen Energy**, 45(19), pp.11368-11379.
 
-- **Zhao, Y.**, Weber, R., 2020. Corrigendum to “Combustion Accelerated Swirling Flows in High Confinements” [Prog. Energy Combust. Sci. 18(4) (1992)349-67]. **Progress in Energy and Combustion Science**, 2020 Jan 14:100820.
+- **Zhao, Y.**, Weber, R., 2020. [Corrigendum to “Combustion Accelerated Swirling Flows in High Confinements” [Prog. Energy Combust. Sci. 18(4) (1992)349-67]](https://www.sciencedirect.com/science/article/pii/S0360128519302527). **Progress in Energy and Combustion Science**, 2020 Jan 14:100820.
 
-- Shao, W., Wang, Z., Liu, X., Zhang, Z., Xiao, Y. and **Zhao, Y.**, 2019. Numerical and Experimental Parametric Study of Emission Characteristics in an Axial Fuel Staging System. **Energy & Fuels**, 33(12), pp.12723-12735.
+- Shao, W., Wang, Z., Liu, X., Zhang, Z., Xiao, Y. and **Zhao, Y.**, 2019. [Numerical and Experimental Parametric Study of Emission Characteristics in an Axial Fuel Staging System](https://pubs.acs.org/doi/abs/10.1021/acs.energyfuels.9b02293). **Energy & Fuels**, 33(12), pp.12723-12735.
 
-- **Zhao, Y.**, McDonell, V. and Samuelsen, S., 2019. Experimental Assessment of the Combustion Performance of an Oven Burner Operated on Pipeline Natural Gas Mixed with Hydrogen. **International Journal of Hydrogen Energy**, 44(47), pp.26049-26062.
+- **Zhao, Y.**, McDonell, V. and Samuelsen, S., 2019. [Experimental Assessment of the Combustion Performance of an Oven Burner Operated on Pipeline Natural Gas Mixed with Hydrogen](https://www.sciencedirect.com/science/article/abs/pii/S0360319919329258). **International Journal of Hydrogen Energy**, 44(47), pp.26049-26062.
 
-- **Zhao, Y.**, Leytan, K.N.S., McDonell, V. and Samuelsen, S., 2019. Investigation of Visible Light Emission from Hydrogen-air Research Flames. **International Journal of Hydrogen Energy**, 44(39), pp.22347-22354.
+- **Zhao, Y.**, Leytan, K.N.S., McDonell, V. and Samuelsen, S., 2019. [Investigation of Visible Light Emission from Hydrogen-air Research Flames](https://www.sciencedirect.com/science/article/abs/pii/S0360319919323559). **International Journal of Hydrogen Energy**, 44(39), pp.22347-22354.
 
-- **Zhao, Y.**, McDonell, V. and Samuelsen, S., 2019. Influence of Hydrogen Addition to Pipeline Natural Gas on the Combustion Performance of a Cooktop Burner. **International Journal of Hydrogen Energy**, 44(23), pp.12239-12253.
+- **Zhao, Y.**, McDonell, V. and Samuelsen, S., 2019. [Influence of Hydrogen Addition to Pipeline Natural Gas on the Combustion Performance of a Cooktop Burner](https://www.sciencedirect.com/science/article/abs/pii/S0360319919311061). **International Journal of Hydrogen Energy**, 44(23), pp.12239-12253.
 
-- Shao, W., **Zhao, Y.**, et al., 2017. Investigation of Fuel/Air Mixing Uniformity in a Dry Low NOX Premixed Burner for Gas Turbine Applications. **Proceedings of the Chinese Society for Electrical Engineering**.
+- Shao, W., **Zhao, Y.**, et al., 2017. [Investigation of Fuel/Air Mixing Uniformity in a Dry Low NOX Premixed Burner for Gas Turbine Applications](https://www.cqvip.com/qk/90021x/20173/671343817.html). **Proceedings of the Chinese Society for Electrical Engineering**.
 
-- Liu, Z., Shao, W., Li, Y., **Zhao, Y.**, et al., 2015. Influence of Mixing Methanol into Natural Gas on the Combustion Performance of a Lean Premixed Burner. **Gas Turbine Technology**.
+- Liu, Z., Shao, W., Li, Y., **Zhao, Y.**, et al., 2015. [Influence of Mixing Methanol into Natural Gas on the Combustion Performance of a Lean Premixed Burner](https://www.cqvip.com/qk/92494x/201503/666331289.html). **Gas Turbine Technology**.
 
 ---
 
