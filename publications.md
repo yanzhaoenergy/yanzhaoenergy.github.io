@@ -39,7 +39,7 @@ permalink: /publications/
 
 - **Zhao, Y.**, Pixler, J., Humphreys, Z., Ambroz, S., Johnson, F., 2026. The Efficiency and NOx Performance of North American and European/Asian Adapted Residential Cooktop Burners Operating on Natural Gas/Hydrogen Blends. **ASHRAE Transactions Accepted**.
 
-- *Xiang, Z., Acikgoz, E., Chen, H., McEnally, C., Pfefferle, L. and **Zhao, Y.**, 2025. Visible Light Emissions from Hydrogen Flames.* **14th U.S. National Combustion Meeting**.
+- Xiang, Z., Acikgoz, E., Chen, H., McEnally, C., Pfefferle, L. and **Zhao, Y.**, 2025. Visible Light Emissions from Hydrogen Flames. **14th U.S. National Combustion Meeting**.
 
 - Bushell, M., Fridlyand, A., **Zhao, Y.**, 2025. Hydrogen Integration in Buildings: Investigating Leakage from Common Gas Connections. **ASHRAE Transactions**.
 
