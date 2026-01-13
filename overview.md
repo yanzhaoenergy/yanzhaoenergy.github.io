@@ -1,9 +1,10 @@
 ---
 title: Overview
 permalink: /overview/
+layout: single
+classes: wide
 ---
 
-<div style="padding-left: 1.5rem; padding-right: 1.5rem;">
 
 ## Education Background
 
@@ -26,4 +27,4 @@ permalink: /overview/
 - National Restaurant Association
 - Center for Hydrogen Safety
 
-</div>
+
