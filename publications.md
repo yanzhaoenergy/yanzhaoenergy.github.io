@@ -7,7 +7,7 @@ permalink: /publications/
 
 - Fridlyand, A., Bushell, M., **Zhao, Y.**, Komar, J., Glanville, P., 2025. Hydrogen Integration in Buildings: Investigating Leakage from Common Gas Connections. **Science and Technology for the Built Environment**. (Under review: Manuscript ID STBE-0267-2025)
 
-- Mac Kinnon, M.A., Zhu, S., **Zhao, Y.**, Colorado, A., McDonell, V., Wu, K. and Samuelsen, S., 2025. Emissions and Air Quality Implications of Decarbonizing the Natural Gas System with Renewable Hydrogen. **Fuel**, 390, p.134702.
+- Mac Kinnon, M.A., Zhu, S., **Zhao, Y.**, Colorado, A., McDonell, V., Wu, K. and Samuelsen, S., 2025. [Emissions and Air Quality Implications of Decarbonizing the Natural Gas System with Renewable Hydrogen](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955555). **Fuel**, 390, p.134702.
 
 - **Zhao, Y.**, McDonell, V. and Samuelsen, S., 2022. Residential Fuel Transition and Fuel Interchangeability in Current Self-Aspirating Combustion Applications: Historical Development and Future Expectations. **Energies**, 15(10), p.3547.
 
