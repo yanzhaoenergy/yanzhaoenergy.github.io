@@ -30,5 +30,6 @@ classes: wide
 - The Combustion Institute
 - National Restaurant Association
 - Center for Hydrogen Safety
+- Project Management Institute (PMP Credential ID 3434278)
 
 
