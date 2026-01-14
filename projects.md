@@ -4,6 +4,7 @@ permalink: /projects/
 layout: single
 classes: wide
 ---
+## Laboratory Research 
 
 <style>
 .project {
@@ -39,9 +40,15 @@ classes: wide
   </div>
 </div>
 
+
+
+
+## Field Research 
+
 <div class="project">
   <img src="/assets/images/project3.png" alt="Project image">
   <div class="project-title">
     Hydrogen Sensor Monitoring in End-Use Equipment
   </div>
 </div>
+
