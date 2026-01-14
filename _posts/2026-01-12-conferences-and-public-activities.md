@@ -1,3 +1,7 @@
+- **Jan 31–Feb 4, 2026** — **Zhao, Y.**,  
+  “The Efficiency and NOx Performance of North American and European/Asian Adapted Residential Cooktop Burners Operating on Natural Gas/Hydrogen Blends,”  
+  ASHRAE Winter Conference, Las Vegas, Nevada
+
 - **Dec 8–10, 2025** — Emerging Technology Program Fall Meeting, Tampa, Florida
 
 - **Nov 6, 2025** — Minnesota Public Utilities Commission Fall Workshop, St. Paul, Minnesota
