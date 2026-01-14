@@ -136,6 +136,6 @@ classes: wide
 <div class="project">
   <img src="/assets/images/project16.png" alt="Project image">
   <div class="project-title">
-    Integration of Solar-Powered Boilers with Battery Energy Storage Systems (BESS) in a Microgrid for a U.S. Department of Defense Facility in Illinoisa
+    Integration of Solar-Powered Boilers with Battery Energy Storage Systems (BESS) in a Microgrid for a U.S. Department of Defense Facility in Illinois
   </div>
 </div>
