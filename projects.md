@@ -73,35 +73,35 @@ classes: wide
   <div class="project-title">
     Experimental and Numerical Investigation of Hydrogen–Natural Gas Segregation and Stratification in Static and Transport Conditions
   </div>
-</div
+</div>
 
 <div class="project">
   <img src="/assets/images/project8.png" alt="Project image">
   <div class="project-title">
     Development of Low-Swirl Burner Flame Stabilization Techniques for Commercial and Industrial Applications
   </div>
-</div
+</div>
 
 <div class="project">
   <img src="/assets/images/project9.png" alt="Project image">
   <div class="project-title">
     Optimization of Radial-Swirl Dry Low-NOx (DLN) Gas Turbine Burners for Methanol Firing Using Advanced Laser Diagnostics
   </div>
-</div
+</div>
 
 <div class="project">
   <img src="/assets/images/project10.png" alt="Project image">
   <div class="project-title">
     Development and Demonstration of Low-NOx Moderate and Intense Low-Oxygen Dilution (MILD) Coal Combustion Systems
   </div>
-</div
+</div>
 
 <div class="project">
   <img src="/assets/images/project11.png" alt="Project image">
   <div class="project-title">
     Development of Next-Generation Cooktop Burners Featuring Blue and Radiant Flames with Enhanced Efficiency and Emissions Performance
   </div>
-</div
+</div>
 
 ## Field Research 
 
