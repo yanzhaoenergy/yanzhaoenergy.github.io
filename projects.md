@@ -106,9 +106,36 @@ classes: wide
 ## Field Research 
 
 <div class="project">
-  <img src="/assets/images/project3.png" alt="Project image">
+  <img src="/assets/images/project12.png" alt="Project image">
   <div class="project-title">
-    Hydrogen Sensor Monitoring in End-Use Equipment
+    City-Scale Green Hydrogen Production and Distribution: Transport, Mixing, and Homogeneity Analysis for a 1-MW Electrolyzer System in Minneapolis
   </div>
 </div>
 
+<div class="project">
+  <img src="/assets/images/project13.png" alt="Project image">
+  <div class="project-title">
+    Evaluation of Up to 25% Hydrogen Blending in Legacy Residential Appliances within Disadvantaged Communities in New Mexico
+  </div>
+</div>
+
+<div class="project">
+  <img src="/assets/images/project14.png" alt="Project image">
+  <div class="project-title">
+    Community-Scale Hydrogen Blending Demonstration in a Utah Natural Gas Pipeline Network Supplied by Electrolytic Green Hydrogen
+  </div>
+</div>
+
+<div class="project">
+  <img src="/assets/images/project15.png" alt="Project image">
+  <div class="project-title">
+    Long-Term Automated Hydrogen Generation, Blending, and End-Use Demonstration for Residential and Commercial Applications in Nevada
+  </div>
+</div>
+
+<div class="project">
+  <img src="/assets/images/project16.png" alt="Project image">
+  <div class="project-title">
+    Integration of Solar-Powered Boilers with Battery Energy Storage Systems (BESS) in a Microgrid for a U.S. Department of Defense Facility in Illinoisa
+  </div>
+</div>
